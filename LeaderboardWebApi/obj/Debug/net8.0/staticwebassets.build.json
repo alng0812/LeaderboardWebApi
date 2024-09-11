@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lfewggqOJiitSZcMTLdJUHZJALsCteSVV75bZ6wbzXY=",
+  "Source": "LeaderboardWebApi",
+  "BasePath": "_content/LeaderboardWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
